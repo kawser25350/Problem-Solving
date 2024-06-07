@@ -1,0 +1,5 @@
+.vscode
+.cph
+*.bin
+*.exe
+*extra
