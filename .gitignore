@@ -3,3 +3,6 @@
 *.bin
 *.exe
 *extra
+*inputf.in
+*outputf.in
+*outputf.out
